@@ -4,7 +4,7 @@ public class Lab_015_UnaryOperator {
     public static void main(String[] args) {
 
         int a= +10; // same as int a=10
-        int b = -10;
+        int b = -10;  // + and - are unary operators here
         int c= a+b;
 
         System.out.println(a);
