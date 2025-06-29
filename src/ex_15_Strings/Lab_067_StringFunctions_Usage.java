@@ -48,10 +48,7 @@ public class Lab_067_StringFunctions_Usage {
         String n = "PRamoddUTTA";
         System.out.println(n.indexOf("d"));
         System.out.println(n.lastIndexOf("d"));
-        System.out.println(n.lastIndexOf("s"));
-
-
-
+        System.out.println(n.lastIndexOf("s")); // there is no 's' so it returns -1
 
     }
 }
