@@ -19,4 +19,11 @@ public class Lab_117_Static_BasicUse {
 
 class  AC{
     static  int a=10;
+
+    static {
+        //  this is a static block
+        // called when class is loaded
+        System.out.println("Hi , class is loaded");
+        //in real case of automation we use to call some functions like reading from db
+    }
 }
