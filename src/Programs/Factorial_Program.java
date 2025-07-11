@@ -1,4 +1,4 @@
-package ex_09_IfCondition;
+package Programs;
 
 import java.util.Scanner;
 
